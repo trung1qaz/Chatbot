@@ -1,0 +1,18 @@
+{"intents":[
+    {"tag": "greeting",
+    "patterns":["hello", "hi" , "what's up", "greetings", "yo"],
+    "reponses":["hello","hey", "what can i do for you"]
+    },
+    {"tag": "goodbye",
+    "patterns":["goodbye", "have a nice day"],
+    "reponses":["alr cya","see you soon", "bye"]
+    },
+    {"tag": "age",
+    "patterns":["how old are you", "what is your age"],
+    "reponses":["I am created today"]
+    },
+    {"tag": "name",
+    "patterns":["what is your name", "who tf are you"],
+    "reponses":["I am you","I am you but more stupid"]
+    }
+]}
